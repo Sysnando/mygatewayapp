@@ -2659,9 +2659,9 @@ generate-object-property@^1.1.0:
   dependencies:
     is-property "^1.0.0"
 
-generator-jhipster@4.13.1:
-  version "4.13.1"
-  resolved "https://registry.yarnpkg.com/generator-jhipster/-/generator-jhipster-4.13.1.tgz#47cfee3d1ac3b22bf655647719d80d5758ceb614"
+generator-jhipster@4.14.1:
+  version "4.14.1"
+  resolved "https://registry.yarnpkg.com/generator-jhipster/-/generator-jhipster-4.14.1.tgz#f07b1ee486c4e0e770f7d5f9b20845f920429bbd"
   dependencies:
     chalk "2.3.0"
     cheerio "0.22.0"
@@ -2671,7 +2671,7 @@ generator-jhipster@4.13.1:
     glob "7.1.2"
     html-wiring "1.2.0"
     insight "0.8.4"
-    jhipster-core "1.4.3"
+    jhipster-core "1.4.4"
     js-yaml "3.10.0"
     lodash "4.17.4"
     meow "3.7.0"
@@ -4288,9 +4288,9 @@ jasmine-core@2.5.0:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/jasmine-core/-/jasmine-core-2.5.0.tgz#0b2e1f4d9babb66f4510681511ff0435e6b68340"
 
-jhipster-core@1.4.3:
-  version "1.4.3"
-  resolved "https://registry.yarnpkg.com/jhipster-core/-/jhipster-core-1.4.3.tgz#492ce6bf2c54b393591ac0cb834aa6df61815c08"
+jhipster-core@1.4.4:
+  version "1.4.4"
+  resolved "https://registry.yarnpkg.com/jhipster-core/-/jhipster-core-1.4.4.tgz#009540997a1d414498a4e0de422e927a9810c6d3"
   dependencies:
     lodash "4.17.4"
     winston "2.4.0"

@@ -4,7 +4,7 @@
       "packageName": "com.java.jhipster.microservice",
       "nativeLanguage": "en"
     },
-    "jhipsterVersion": "4.13.1",
+    "jhipsterVersion": "4.14.1",
     "baseName": "mygatewayapp",
     "packageName": "com.java.jhipster.microservice",
     "packageFolder": "com/java/jhipster/microservice",
